@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WebComponents.org]]></title>
+        <description><![CDATA[A place to discuss and evolve Web Component best-practices]]></description>
+        <link>http://webcomponents.org</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 03 Jul 2015 18:24:08 GMT</lastBuildDate>
+        <atom:link href="http://webcomponents.org/articles.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 03 Jul 2015 18:21:58 GMT</pubDate>
+        <item>
+            <title><![CDATA[iOS Application with Polymer 1.0]]></title>
+            <description><![CDATA[<p>In this article, we will go through the steps to create first Polymer 1.0 iOS application using Polymer Starter Kit. This shall help us create applications in Polymer and package them as iOS application, which can be installed and run on iOS devices, such as, iPhone, iPad, etc.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/ios-application-with-polymer-1-0</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/ios-application-with-polymer-1-0</guid>
+            <pubDate>Fri, 03 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over the Edge: Web Components are an endangered species]]></title>
+            <description><![CDATA[<p>Last week I ran the panel and the Web Components/Modules breakout session of the excellent Edge Conference in London, England and I think I did quite a terrible job. The reason was that the topic is too large and too fragmented and broken to be taken on as a bundle.</p>
+<p>Web Components are a great idea. Modules are a great idea. Together, they bring us hours and hours of fun debating where what should be done to create a well-performing, easy to maintain and all around extensible complex app for the web.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/over-the-edge-web-components-are-an-endangered-species</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/over-the-edge-web-components-are-an-endangered-species</guid>
+            <pubDate>Fri, 03 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Setting up your Production-ready Polymer 1.0 Application Development]]></title>
+            <description><![CDATA[<p>Any technology we choose to build our project, it is very important that our project lifecycle is managed with effective set of tools that make our overall project development efficient. Depending upon the technology, it may take a while, initially, to set it up but once it is in place, the benefit of it cannot be undermined. Besides, it gives you the much needed agility when it comes to releasing quality code, frequently.</p>
+<p>In this article, we are going to run through the different stages of a project life-cycle for a Polymer 1.0 project and talk about the related tools that can help you run the project, efficiently.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/setting-up-your-production-ready-polymer-1-0-application-development</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/setting-up-your-production-ready-polymer-1-0-application-development</guid>
+            <pubDate>Wed, 01 Jul 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shadow DOM Strategies in Angular 2]]></title>
+            <description><![CDATA[<p>Angular 2 has been rewritten from scratch to take advantage of a lot of new technologies that are coming to the web. One of those technologies are Web Components. In fact, Web Components is a set of four technologies: HTML Imports, Templates, Shadow DOM and Custom Elements. Angular uses templates for structural DOM changes, and Shadow DOM for styles and DOM encapsulation. This article explores Angular 2&#39;s Shadow DOM emulations and how we can use it.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/shadow-dom-strategies-in-angular-2</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/shadow-dom-strategies-in-angular-2</guid>
+            <pubDate>Mon, 29 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guitar Tuner]]></title>
+            <description><![CDATA[<p>Guitar Tuner, despite its cryptic name, is a web app that helps you tune a guitar. I’m sure you, like me, are shocked at this revelation.</p>
+<p>Web Components. It’s the perfect time to give Web Components a run out. In this case I had the idea that I could have three components: one to handle the audio input and analysis; one for the dial; and one for the instructions (tune up, down, etc).
+<!-- Excerpt --></p>
+]]></description>
+            <link>http://webcomponents.org/articles/guitar-tuner</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/guitar-tuner</guid>
+            <pubDate>Wed, 24 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Practical Questions around Web Components]]></title>
+            <description><![CDATA[<p>Components allow us to build simpler applications by composing independent parts into a greater system. Good component
+design means you should only need to focus on one component at a time, holding less information in your active mind in
+order to complete a task. This gives you more mental capacity to focus on the task at hand and ultimately make better
+decisions.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/practical-questions-around-web-components</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/practical-questions-around-web-components</guid>
+            <pubDate>Fri, 19 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hands On With Polymer 1.0]]></title>
+            <description><![CDATA[<p>On May 29, 2015, the polymer team announced the release of Polymer 1.0.  Since the release of Polymer 0.5 developer
+preview, the team has rewritten the library from the ground up, with increased performance and better functionality as results.</p>
+<p>
+  Polymer is one of the first implementations of a user interface library built upon the Web Components standard.  Web
+  Components are not fully supported by browsers, but they provide a polyfill library, webcomponents.js, that provides
+  enough functionality to support Web Components and Polymer.
+</p>
+
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/hands-on-with-polymer-1</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/hands-on-with-polymer-1</guid>
+            <pubDate>Thu, 18 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polymer for the Performance-obsessed]]></title>
+            <description><![CDATA[<p>I&#39;m building a small web app at the moment, and so I&#39;ve taken the opportunity to give Polymer 1.0 a proper test drive. The question I was asking myself: can I get all these goodies without making users pay a huge performance cost?</p>
+<p>I’ll be blunt about my feelings on Polymer 0.5, which I considered a framework: it gave me all the wrong feels. It tried to do so much, and in one go, and it  like eating a 5 course dinner when all you wanted was a salad. After all, there’s no hard requirement to make your own elements. Semantic markup does just fine, and it’s hard to beat the browser at components that its engineers have had years to refine.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/polymer-for-the-performance-obsessed</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/polymer-for-the-performance-obsessed</guid>
+            <pubDate>Fri, 12 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The state of Web Components]]></title>
+            <description><![CDATA[<p>Web Components have been on developers’ radars for quite some time now. They were first introduced to the world at Google IO 2011. The concept shook the community up and became the topic of many future talks and discussions.</p>
+<p>By now, 4 years on, Web Components should be everywhere, but in reality Chrome is the only browser with ‘some version’ of Web Components. Even with polyfills it’s clear Web Components won’t be fully embraced by the community until the majority of browsers are on-board.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/the-state-of-web-components</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/the-state-of-web-components</guid>
+            <pubDate>Wed, 10 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Using Polymer 1.0 with Angular]]></title>
+            <description><![CDATA[<p>Polymer and Angular.js are two incredibly popular projects that are run by Google. The two projects serve different purposes yet can, with some coercion, be made to work together. Eric Bidelman, a dev from the Polymer team, made a great youtube video on this (which can be found <a href="https://www.youtube.com/watch?v=p1NpZ-0Op0w">here</a>) and I wanted to give another example of the two projects working side-by-side.</p>
+<!-- Excerpt -->]]></description>
+            <link>http://webcomponents.org/articles/using-polymer-1-0-with-angular</link>
+            <guid isPermaLink="true">http://webcomponents.org/articles/using-polymer-1-0-with-angular</guid>
+            <pubDate>Mon, 01 Jun 2015 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
